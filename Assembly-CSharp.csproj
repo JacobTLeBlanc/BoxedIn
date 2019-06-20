@@ -55,7 +55,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\ballController.cs" />
+     <Compile Include="Assets\Scripts\ballScript.cs" />
+     <Compile Include="Assets\Scripts\borderScript.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>/home/thejakenator/Boxed In/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
